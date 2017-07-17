@@ -4,8 +4,8 @@ Repo for upcoming undergraduate textbook
 ## Contributors
 - TBA
 
-## Notes 
-Eventual input files should be in a directory with the same name of the Jupyter notebook (or script, or alike) with the ```_input``` suffix, e.g.
+## Input/Oputput and support files 
+Eventual input files should be in a directory with the same name of the Jupyter notebook (or script, or alike) with the ```_input``` suffix, e.g.. Similar approach for outputs, i.e. ```_output```.
 
 ```
 ├── hypsometry_terrestrial_planets.ipynb
