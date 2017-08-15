@@ -10,6 +10,37 @@ Repo for upcoming undergraduate textbook
 ## Available notebooks
 * [Hypsometry of the Terrestrial planets](hypsometry_terrestrial_planets.ipynb) (sample notebook)
 
+## Chapter <> Notebook 
+
+*Part I Methods and Tools*
+
+2. Geologic Tools
+3. Exploration Tools
+4. Cartography Tools
+5. Ground Truthd
+
+*Part II Processes and Sources*
+
+6. Meteorites
+7. Impact Cratering
+8. Endogenic Processes
+9. Surface Processes
+10. Interiors and Atmospheres
+
+*Part III Integration and Geological Syntheses*
+
+11. The Terrestrial Planets
+12. Icy and Rocky–Icy Satellites
+13. Small Bodies and Dwarf Planets
+
+*Part IV Frontiers*
+
+14. Astrobiology, the Emergence of Life, and Planetary Exploration
+15. Spaceand Planetary Resources
+
+Appendix: Planetary Facts, Data and Tools
+Part V Index Terms
+
 ## Input/Oputput and support files 
 Eventual input files should be in a directory with the same name of the Jupyter notebook (or script, or alike) with the ```_input``` suffix, e.g.. Similar approach for outputs, i.e. ```_output```.
 
