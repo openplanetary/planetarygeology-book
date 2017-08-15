@@ -12,14 +12,14 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 
 ## Chapter <> Notebook 
 
-*Part I Methods and Tools*
+**Part I Methods and Tools**
 
 2. Geologic Tools
 3. Exploration Tools
 4. Cartography Tools
 5. Ground Truthd
 
-*Part II Processes and Sources*
+**Part II Processes and Sources**
 
 6. Meteorites
 7. Impact Cratering
@@ -27,13 +27,13 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 9. Surface Processes
 10. Interiors and Atmospheres
 
-*Part III Integration and Geological Syntheses*
+**Part III Integration and Geological Syntheses**
 
 11. The Terrestrial Planets
 12. Icy and Rocky–Icy Satellites
 13. Small Bodies and Dwarf Planets
 
-*Part IV Frontiers*
+**Part IV Frontiers**
 
 14. Astrobiology, the Emergence of Life, and Planetary Exploration
 15. Spaceand Planetary Resources
