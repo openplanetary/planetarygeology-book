@@ -17,7 +17,7 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 2. Geologic Tools
 3. Exploration Tools
 4. Cartography Tools
-5. Ground Truthd
+5. Ground Truth
 
 **Part II Processes and Sources**
 
