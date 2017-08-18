@@ -15,7 +15,7 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 **Part I Methods and Tools**
 
 2. Geologic Tools
-3. Exploration Tools : [hypsometry_terrestrial_planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
+3. Exploration Tools : [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 4. Cartography Tools
 5. Ground Truth
 
@@ -23,13 +23,13 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 
 6. Meteorites
 7. Impact Cratering
-8. Endogenic Processes : [hypsometry_terrestrial_planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
+8. Endogenic Processes : [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 9. Surface Processes
 10. Interiors and Atmospheres
 
 **Part III Integration and Geological Syntheses**
 
-11. The Terrestrial Planets: [hypsometry_terrestrial_planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
+11. The Terrestrial Planets: [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 12. Icy and Rocky–Icy Satellites
 13. Small Bodies and Dwarf Planets
 
