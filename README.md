@@ -7,6 +7,26 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 - Mario d'Amore
 - ...
 
+## Requirements
+Use of Anaconda python advised. Parameter file for [creating a conda virtual environment](https://conda.io/docs/using/envs.html#create-environment-file-by-hand) (to be checked if it covers all notebooks...)
+
+```
+name: pgbook
+dependencies:
+  - python=3.4
+  - bokeh=0.9.2
+  - gdal
+  - numpy=1.9.*
+  - flask
+  - jupyter
+  - matplotlib
+  - pandas
+channels:
+  - conda-forge
+dependencies:
+  - jupyter_contrib_nbextensions
+```
+
 ## Available notebooks
 * [Hypsometry of the Terrestrial planets](hypsometry_terrestrial_planets.ipynb) (sample notebook)
 
