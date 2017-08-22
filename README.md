@@ -5,6 +5,7 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 - Angelo Pio Rossi
 - Stephan van Gaselt
 - Mario d'Amore
+- Trent Hare
 - ...
 
 ## Requirements
@@ -19,7 +20,7 @@ dependencies:
   - numpy=1.9.*
   - flask
   - jupyter
-  - matplotlib
+  - matplotlib (basemap)
   - pandas
 channels:
   - conda-forge
@@ -36,7 +37,7 @@ dependencies:
 
 2. Geologic Tools
 3. Exploration Tools : [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
-4. Cartography Tools
+4. Cartography Tools : [Common planetary map projections](https://github.com/openplanetary/planetarygeology-book/blob/master/cartography_map_projections.ipynb)
 5. Ground Truth
 
 **Part II Processes and Sources**
