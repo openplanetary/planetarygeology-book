@@ -29,28 +29,40 @@ dependencies:
 ```
 
 ## Available notebooks
+* [Common planetary map projections](https://github.com/openplanetary/planetarygeology-book/blob/master/cartography_map_projections.ipynb)
 * [Hypsometry of the Terrestrial planets](hypsometry_terrestrial_planets.ipynb) (sample notebook)
+* [Thermal emission spectral data](https://github.com/openplanetary/planetarygeology-book/blob/master/thermalemissionspectrometer_spectral_data.ipynb)
+* [Planetary imaging basics](https://github.com/openplanetary/planetarygeology-book/blob/master/planetary-data-basics.ipynb)
+* [Hyperspecral data](https://github.com/openplanetary/planetarygeology-book/blob/master/spectral.ipynb)
 
 ## Chapter <> Notebook 
 
 **Part I Methods and Tools**
 
 2. Geologic Tools
-3. Exploration Tools : [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
-4. Cartography Tools : [Common planetary map projections](https://github.com/openplanetary/planetarygeology-book/blob/master/cartography_map_projections.ipynb)
+3. Exploration Tools : 
+* [Planetary imaging basics](https://github.com/openplanetary/planetarygeology-book/blob/master/planetary-data-basics.ipynb)
+* [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
+* [Hyperspecral data](https://github.com/openplanetary/planetarygeology-book/blob/master/spectral.ipynb)
+* [Thermal emission spectral data](https://github.com/openplanetary/planetarygeology-book/blob/master/thermalemissionspectrometer_spectral_data.ipynb)
+
+4. Cartography Tools : 
+* [Common planetary map projections](https://github.com/openplanetary/planetarygeology-book/blob/master/cartography_map_projections.ipynb)
 5. Ground Truth
 
 **Part II Processes and Sources**
 
 6. Meteorites
 7. Impact Cratering
-8. Endogenic Processes : [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
+8. Endogenic Processes : 
+* [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 9. Surface Processes
 10. Interiors and Atmospheres
 
 **Part III Integration and Geological Syntheses**
 
-11. The Terrestrial Planets: [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
+11. The Terrestrial Planets: 
+ * [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 12. Icy and Rocky–Icy Satellites
 13. Small Bodies and Dwarf Planets
 
