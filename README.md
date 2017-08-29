@@ -2,10 +2,11 @@
 Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/9783319651774)
 
 ## Contributors
-- Angelo Pio Rossi
-- Stephan van Gaselt
-- Mario d'Amore
-- Trent Hare
+- [Angelo Pio Rossi](https://github.com/aprossi)
+- [Stephan van Gasselt](https://github.com/ZharX)
+- [Mario d'Amore](https://github.com/kidpixo)
+- [Trent Hare](https://github.com/thareUSGS)
+- [Nicola Tosi](https://github.com/nicola-tosi)
 - ...
 
 ## Requirements
