@@ -12,6 +12,7 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 ## Requirements
 Use of Anaconda python advised. Parameter file for [creating a conda virtual environment](https://conda.io/docs/using/envs.html#create-environment-file-by-hand) (to be checked if it covers all notebooks...)
 
+for nbexntensions, see [conda nb extension guide](https://docs.anaconda.com/anaconda/user-guide/tasks/use-jupyter-notebook-extensions)
 ```
 name: pgbook
 dependencies:
