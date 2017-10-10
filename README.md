@@ -7,6 +7,7 @@ Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/97833
 - [Mario d'Amore](https://github.com/kidpixo)
 - [Trent Hare](https://github.com/thareUSGS)
 - [Nicola Tosi](https://github.com/nicola-tosi)
+- [Sebastiano Padovan](https://github.com/SebastianoPadovan)
 - ...
 
 ## Requirements
