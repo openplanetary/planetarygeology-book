@@ -47,6 +47,7 @@ dependencies:
 * [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 * [Hyperspecral data](https://github.com/openplanetary/planetarygeology-book/blob/master/spectral.ipynb)
 * [Thermal emission spectral data](https://github.com/openplanetary/planetarygeology-book/blob/master/thermalemissionspectrometer_spectral_data.ipynb)
+* [HRSC imagery and machine learning](https://github.com/openplanetary/planetarygeology-book/blob/master/HRSC_imaging_data_machine_learning_examples.ipynb)
 
 4. Cartography Tools : 
 * [Common planetary map projections](https://github.com/openplanetary/planetarygeology-book/blob/master/cartography_map_projections.ipynb)
@@ -60,6 +61,8 @@ dependencies:
 * [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 9. Surface Processes
 10. Interiors and Atmospheres
+* [Interior structure](https://github.com/openplanetary/planetarygeology-book/blob/master/interior/interior_structure.ipynb)
+* [Thermal evolution](https://github.com/openplanetary/planetarygeology-book/blob/master/interior/thermal_evolution.ipynb)
 
 **Part III Integration and Geological Syntheses**
 
