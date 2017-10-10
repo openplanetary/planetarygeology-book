@@ -40,7 +40,7 @@ dependencies:
 
 ## Chapter <> Notebook 
 
-**Part I Methods and Tools**
+**Part I: Methods and Tools**
 
 2. Geologic Tools
 3. Exploration Tools : 
@@ -54,7 +54,7 @@ dependencies:
 * [Common planetary map projections](https://github.com/openplanetary/planetarygeology-book/blob/master/cartography_map_projections.ipynb)
 5. Ground Truth
 
-**Part II Processes and Sources**
+**Part II: Processes and Sources**
 
 6. Meteorites
 7. Impact Cratering
@@ -65,14 +65,14 @@ dependencies:
 * [Interior structure](https://github.com/openplanetary/planetarygeology-book/blob/master/interior/interior_structure.ipynb)
 * [Thermal evolution](https://github.com/openplanetary/planetarygeology-book/blob/master/interior/thermal_evolution.ipynb)
 
-**Part III Integration and Geological Syntheses**
+**Part III: Integration and Geological Syntheses**
 
 11. The Terrestrial Planets: 
  * [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 12. Icy and Rocky–Icy Satellites
 13. Small Bodies and Dwarf Planets
 
-**Part IV Frontiers**
+**Part IV: Frontiers**
 
 14. Astrobiology, the Emergence of Life, and Planetary Exploration
 15. Spaceand Planetary Resources
