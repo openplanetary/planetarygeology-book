@@ -1,5 +1,5 @@
 # planetarygeology-book
-Repo for [upcoming undergraduate textbook](http://www.springer.com/de/book/9783319651774)
+Repo for [undergraduate textbook](http://www.springer.com/de/book/9783319651774)
 
 ## Contributors
 - [Angelo Pio Rossi](https://github.com/aprossi)
