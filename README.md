@@ -38,6 +38,7 @@ dependencies:
 * [Thermal emission spectral data](https://github.com/openplanetary/planetarygeology-book/blob/master/thermalemissionspectrometer_spectral_data.ipynb)
 * [Planetary imaging basics](https://github.com/openplanetary/planetarygeology-book/blob/master/planetary-data-basics.ipynb)
 * [Hyperspecral data](https://github.com/openplanetary/planetarygeology-book/blob/master/spectral.ipynb)
+* [PCA to compress NASA's Pluto images](https://github.com/openplanetary/planetarygeology-book/blob/master/PCA%20to%20compress%20NASA's%20Pluto%20images.ipynb)
 
 ## Chapter <> Notebook 
 
@@ -46,7 +47,7 @@ dependencies:
 2. Geologic Tools
 3. Exploration Tools : 
 * [Planetary imaging basics](https://github.com/openplanetary/planetarygeology-book/blob/master/planetary-data-basics.ipynb)
-* [PCA to compress NASA's Pluto images]()
+* [PCA to compress NASA's Pluto images](https://github.com/openplanetary/planetarygeology-book/blob/master/PCA%20to%20compress%20NASA's%20Pluto%20images.ipynb)
 * [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 * [Hyperspecral data](https://github.com/openplanetary/planetarygeology-book/blob/master/spectral.ipynb)
 * [Thermal emission spectral data](https://github.com/openplanetary/planetarygeology-book/blob/master/thermalemissionspectrometer_spectral_data.ipynb)
