@@ -8,7 +8,7 @@ Repo for [undergraduate textbook](http://www.springer.com/de/book/9783319651774)
 - [Trent Hare](https://github.com/thareUSGS)
 - [Nicola Tosi](https://github.com/nicola-tosi)
 - [Sebastiano Padovan](https://github.com/SebastianoPadovan)
--[Matteo Niccoli](https://github.com/mycarta)
+- [Matteo Niccoli](https://github.com/mycarta)
 - ...
 
 ## Requirements
