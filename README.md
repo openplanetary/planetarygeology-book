@@ -8,6 +8,7 @@ Repo for [undergraduate textbook](http://www.springer.com/de/book/9783319651774)
 - [Trent Hare](https://github.com/thareUSGS)
 - [Nicola Tosi](https://github.com/nicola-tosi)
 - [Sebastiano Padovan](https://github.com/SebastianoPadovan)
+-[Matteo Niccoli](https://github.com/mycarta)
 - ...
 
 ## Requirements
@@ -45,6 +46,7 @@ dependencies:
 2. Geologic Tools
 3. Exploration Tools : 
 * [Planetary imaging basics](https://github.com/openplanetary/planetarygeology-book/blob/master/planetary-data-basics.ipynb)
+* [PCA to compress NASA's Pluto images]()
 * [Hypsometry of the Terrestrial planets](https://github.com/openplanetary/planetarygeology-book/blob/master/hypsometry_terrestrial_planets.ipynb)
 * [Hyperspecral data](https://github.com/openplanetary/planetarygeology-book/blob/master/spectral.ipynb)
 * [Thermal emission spectral data](https://github.com/openplanetary/planetarygeology-book/blob/master/thermalemissionspectrometer_spectral_data.ipynb)
